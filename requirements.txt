@@ -1,0 +1,8 @@
+streamlit
+langgraph
+openai
+chromadb
+yfinance
+feedparser
+requests
+pandas
